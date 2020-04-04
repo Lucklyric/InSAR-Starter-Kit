@@ -52,7 +52,7 @@ if __name__ == "__main__":
     # Dim-2
     real_ifg_phase = np.real(phase_bar_ifg)
     # Dim-3
-    imag_ifg_phase = np.real(phase_bar_ifg)
+    imag_ifg_phase = np.imag(phase_bar_ifg)
 
 
 
